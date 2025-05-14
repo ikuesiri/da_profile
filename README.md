@@ -1,14 +1,26 @@
 
 <h1 align="center">Hi 👋, I'm Kola Ikuesiri .O</h1>
-<h3 align="center">A passionate Data Analyst, I am Proficient in Data Visualization, Reporting, Dashboarding, and Insight analysis with hands-on experience in SQL, Excel, Power BI, and Tableau. Honing strong analytical skills, decision-making, and problem-solving abilities with a learning mindset and proactive approach.</h3>
+<h4 align="center">A passionate Data Analyst, I am Proficient in Data Visualization, Reporting, Dashboarding, and Insight analysis with hands-on experience in SQL, Excel, Power BI, and Tableau. Honing strong analytical skills, decision-making, and problem-solving abilities with a learning mindset and proactive approach.</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikuesiri" alt="ikuesiri" /></a> </p>
 
+
+**Here's a quick summary about me**:
+
+- 😊 Pronouns: He/him
+- 👨🏼‍🎓  AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🔳  Currently A Data Analyst
+- 😊 I’m looking for contribute and explore open source projects, hackathons, internships, and job opportunities.
+- - 💬 Ask me about **Excel, SQL, Power BI**
+- 💼 Job interests: Data Analyst, BI Analyst, Performance Analyst etc.
+- 📫 You can [view my portfolio](https://kola-ikuesiri.netlify.app/) and contact me by emailing ikuesiri.onosemuode@gmail.com.
 - 🌱 I’m currently learning **step-by-step action plan to consolidate your skills, build confidence, and land your first data analyst job**
-
-- 💬 Ask me about **Excel, SQL, Power BI**
-
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q0bHf-NmUN7I0abFJNr4idm7Q16uGjn7/view?usp=sharing)
 - 📫 How to reach me **ikuesiri.onosemuode@gmail.com**
+
+
+
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Q0bHf-NmUN7I0abFJNr4idm7Q16uGjn7/view?usp=sharing](https://drive.google.com/file/d/1Q0bHf-NmUN7I0abFJNr4idm7Q16uGjn7/view?usp=sharing)
 
