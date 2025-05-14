@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Kola Ikuesiri .O</h1>
+<h2 align="center">Hi 👋, I'm Kola Ikuesiri </h2>
 <h4 align="left">A passionate Data Analyst, I am Proficient in Data Visualization, Reporting, Dashboarding, and Insight analysis with hands-on experience in SQL, Excel, Power BI, and Tableau. Honing strong analytical skills, decision-making, and problem-solving abilities with a learning mindset and proactive approach.</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikuesiri" alt="ikuesiri" /></a> </p>
