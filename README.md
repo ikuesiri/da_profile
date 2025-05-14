@@ -15,7 +15,7 @@
 - 💼 Job interests: Data Analyst, BI Analyst, Performance Analyst etc.
 - 📫 You can [view my portfolio](https://kola-ikuesiri.netlify.app/) and contact me by emailing ikuesiri.onosemuode@gmail.com.
 - 🌱 I’m currently learning **step-by-step action plan to consolidate your skills, build confidence, and land your first data analyst job**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q0bHf-NmUN7I0abFJNr4idm7Q16uGjn7/view?usp=sharing)
+- 📄 Know about my  [work experiences](https://drive.google.com/file/d/1Q0bHf-NmUN7I0abFJNr4idm7Q16uGjn7/view?usp=sharing)
 - 📫 How to reach me **ikuesiri.onosemuode@gmail.com**
 
 
